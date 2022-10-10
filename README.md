@@ -1,1 +1,1 @@
-# IdrakAsadbayli.gitup.io
+# IdrakAsadbayli.github.io
